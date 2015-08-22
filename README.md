@@ -1,2 +1,2 @@
 # stats-project
-Course Project for Statistical Inference
+Course project for Statistical Inference
