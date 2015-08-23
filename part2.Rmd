@@ -1,10 +1,8 @@
 ---
 title: "Exploratory Data Analysis Using the ToothGrowth Dataset"
-output:
-  pdf_document:
-    keep_tex: yes
-  html_document: default
-header-includes: \usepackage{graphicx} \usepackage{textalpha}
+output: 
+  html_document:
+    keep_md: true
 ---
 
 ## Loading ToothGrowth Data
