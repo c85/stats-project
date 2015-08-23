@@ -1,9 +1,9 @@
 ---
 title: "The Exponential Distribution in R versus the Central Limit Theorem"
 output:
-  html_document: default
   pdf_document:
     keep_tex: yes
+  html_document: default
 header-includes: \usepackage{graphicx} \usepackage{textalpha}
 ---
 
